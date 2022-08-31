@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlphineJo
+- 👋 Hi, I’m Joseph Seka
 - 👀 I’m interested in Front End / Back End / Full Stack Developement.
 - 🌱 I’m currently learning Email Developement
 - 💞️ I’m looking to collaborate on ...
